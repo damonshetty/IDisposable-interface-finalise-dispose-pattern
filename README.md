@@ -1,0 +1,1 @@
+IDisposable internace and finalise dispose pattern
