@@ -1,0 +1,1 @@
+D:\Development\Learn C# Step by Step\IDisposable interface finalise dispose pattern\IDisposable interface finalise dispose pattern\bin\Debug\IDisposable interface finalise dispose pattern.exe.config
